@@ -1,104 +1,128 @@
 <h1 align="center">Hi 👋, I'm Asad Muhammad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00ADB5&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Building+Scalable+SaaS+Systems;Node.js+%7C+NestJS+%7C+AWS+%7C+Microservices;Exploring+AI+%26+LLM+Integrations" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00ADB5&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Distributed+Systems+%26+SaaS;Node.js+%7C+NestJS+%7C+React+%7C+AWS;AI+Workflows+%26+LLM+Integrations" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="390" alt="Coding gif" />
 </p>
 
----
+<p align="center">
+  I build software that stays fast, steady and easy to grow.
+</p>
 
-## 🚀 About Me
+<hr />
 
-I’ve been building software for a while now — mostly **backend-heavy systems that actually have to scale and survive real users**.
+## About Me
 
-Over time, I naturally moved from just writing features to thinking about **how systems behave under load, how they evolve, and how to keep them maintainable**.
+I am a Senior Software Engineer who spends most of my time on SaaS products, backend systems and the kind of architecture decisions that matter once real users start relying on a product.
 
-- Worked on platforms serving **12M+ users**
-- Reduced latency by **~45%** in production systems
-- Migrated **50M+ records** without breaking things (not fun, but learned a lot)
-- Built multi-tenant SaaS systems from scratch
+I like clean systems, clear thinking and shipping things that hold up when traffic, data and product scope keep growing. I also care about the small details that make a product feel solid in day to day use.
 
----
+## Highlights
 
-## 🧠 What I Enjoy Working On
+* Built and scaled platforms serving 12M+ users
+* Reduced backend latency by around 45% in production
+* Migrated and optimized 50M+ records
+* Designed multi tenant SaaS systems from scratch
+* Cut development effort by around 40% through better architecture
+* Integrated AI into real product workflows, not just demos
 
-- Designing systems that don’t fall apart when they scale  
-- Multi-tenant SaaS architectures  
-- Event-driven systems (queues, async processing, background jobs)  
-- Making backend systems fast, predictable, and boring (in a good way)  
+## What I Work On
 
-Lately, I’ve also been spending time on:
+I enjoy building microservices, event driven systems and multi tenant SaaS products. I usually end up close to the parts that shape scale, reliability and maintainability.
 
-- Integrating **LLMs into real workflows** (not just chat UIs)
-- Building **AI-assisted features inside SaaS apps**
-- Exploring how AI actually fits into production systems without overengineering it
+Lately I have also been spending more time on AI inside real products. Not just a chat box on top of an app, but features that help users finish work faster. That includes AI middleware, document workflows, chat based assistance and practical LLM use cases inside SaaS.
 
----
+## A Few Things I Have Built
 
-## 🏗️ A Few Things I’ve Built
+CloudDrive is one of the main systems I have worked on. It is a Google Drive style SaaS with organization based storage, RBAC, file versioning, AI assisted document editing and cloud storage flows built for real teams.
 
-### 📁 CloudDrive (SaaS)
-A Google Drive-like system with:
-- Organization-based storage (multi-tenant)
-- RBAC & permissions
-- File versioning  
-- AI-assisted document editing  
-
----
-
-### 🏫 School Management SaaS
-- Multi-tenant architecture (database-per-tenant approach)
-- Supports multiple schools with isolated data
-- Includes HRM, communication, and internal tools
-
----
-
-### 🤖 AI Layer / Integrations
-- Embedded AI inside apps for:
-  - document editing  
-  - chat-based assistance  
-  - workflow automation  
-- Focused more on **practical use-cases** than hype
-
----
+I have also worked on a school management SaaS, a PAM security platform and other large production systems where scale, permissions and clean workflows mattered a lot.
 
 ## ⚙️ Tech Stack
 
-**Backend**
-- Node.js, NestJS, Express  
-- Microservices architecture  
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Frontend**
-- React, Angular  
+### Backend & Architecture
+* Node.js, NestJS, Express
+* Microservices architecture
+* REST APIs, GraphQL
+* Event driven systems
+* Multi tenant architectures
 
-**Cloud & DevOps**
-- AWS (S3, EC2, queues, infra design)  
-- Docker  
+</td>
 
-**Data**
-- MongoDB, MySQL  
+<td valign="top" width="33%">
 
-**Queues & Processing**
-- BullMQ, RabbitMQ  
+### Frontend & Stacks
+* React, Angular
+* MERN, MEAN, PERN
+* TypeScript, JavaScript
+* State management
+* Scalable UI development
 
-**AI / LLM**
-- OpenAI APIs, prompt workflows  
-- AI middleware patterns inside SaaS apps  
+</td>
 
----
+<td valign="top" width="33%">
 
-## 🌱 Right Now
+### Cloud, Data & Infra
+* AWS, S3, EC2, RDS
+* Docker, CI/CD
+* MongoDB, MySQL, PostgreSQL
+* Redis
+* Caching strategies
 
-Currently focused on:
-- Scaling SaaS products cleanly (without overcomplicating things)
-- Making AI features actually useful in real apps
-- Improving performance where it actually matters
+</td>
+</tr>
 
----
+<tr>
+<td valign="top" width="33%">
 
-## 🌐 Portfolio
+### Queues & Streaming
+* BullMQ, RabbitMQ
+* Kafka
+* Pub/Sub patterns
+* Background job processing
 
-- https://asadcodes.com
+</td>
+
+<td valign="top" width="33%">
+
+### AI & LLM
+* OpenAI APIs
+* AI middleware design
+* Prompt workflows
+* AI assisted SaaS features
+
+</td>
+
+<td valign="top" width="33%">
+
+### Tools & Practices
+* Git, GitHub
+* System design
+* Performance optimization
+* Large scale data migrations
+
+</td>
+</tr>
+</table>
+
+## A Bit More on AI
+
+I do not use AI just for the sake of it. Most of my work around AI sits in the middle layer.
+
+* LLM backed workflows inside real features
+* AI assisted document editing and content help
+* Chat interfaces that actually solve something
+* Automations that remove repetitive work
+
+The goal is simple. Make things faster, cleaner and less manual without turning the product into a gimmick.
+
+## Portfolio
+
+https://asadcodes.com
