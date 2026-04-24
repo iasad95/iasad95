@@ -59,8 +59,8 @@ I have also worked on a school management SaaS, a PAM security platform and othe
 <td valign="top" width="33%">
 
 ### Frontend & Stacks
-* React, Angular
-* MERN, MEAN, PERN
+* React, Angular, Vue
+* MERN, MEAN, MEVN
 * TypeScript, JavaScript
 * State management
 * Scalable UI development
