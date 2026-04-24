@@ -127,4 +127,4 @@ The goal is simple. Make things faster, cleaner and less manual without turning 
 
 https://asadcodes.com
 
-Contributions before 2024 were on another account
+Contributions before 2021 were on another account
