@@ -126,5 +126,3 @@ The goal is simple. Make things faster, cleaner and less manual without turning 
 ## Portfolio
 
 https://asadcodes.com
-
-Contributions before 2021 were on another account
