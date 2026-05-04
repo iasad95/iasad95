@@ -9,37 +9,70 @@
 </p>
 
 <p align="center">
-  I build software that stays fast, steady and easy to grow.
+  I build software that stays fast, steady, and easy to grow.
 </p>
 
 <hr />
 
 ## About Me
 
-I am a Senior Software Engineer who spends most of my time on SaaS products, backend systems and the kind of architecture decisions that matter once real users start relying on a product.
+I am a Senior Software Engineer who works on SaaS products, backend systems, and architecture that matters once real users start depending on a product.
 
-I like clean systems, clear thinking and shipping things that hold up when traffic, data and product scope keep growing. I also care about the small details that make a product feel solid in day to day use.
+I enjoy clean systems, clear thinking, and shipping software that holds up when traffic, data, and product scope keep growing. I also care about the details that make a product feel solid in day-to-day use.
 
 ## Highlights
 
 * Built and scaled platforms serving 12M+ users
 * Reduced backend latency by around 45% in production
 * Migrated and optimized 50M+ records
-* Designed multi tenant SaaS systems from scratch
+* Designed multi-tenant SaaS systems from scratch
 * Cut development effort by around 40% through better architecture
 * Integrated AI into real product workflows, not just demos
+* Built practical automation workflows with tools like n8n
+* Worked with LLM orchestration and workflow tools like LangChain and LangFlow
 
 ## What I Work On
 
-I enjoy building microservices, event driven systems and multi tenant SaaS products. I usually end up close to the parts that shape scale, reliability and maintainability.
+I enjoy building microservices, event-driven systems, and multi-tenant SaaS products. I usually end up close to the parts that shape scale, reliability, and maintainability.
 
-Lately I have also been spending more time on AI inside real products. Not just a chat box on top of an app, but features that help users finish work faster. That includes AI middleware, document workflows, chat based assistance and practical LLM use cases inside SaaS.
+Lately I have also been spending more time on AI inside real products. Not just a chat box on top of an app, but features that help users finish work faster. That includes AI middleware, document workflows, chat-based assistance, automation pipelines, and practical LLM use cases inside SaaS.
 
 ## A Few Things I Have Built
 
-CloudDrive is one of the main systems I have worked on. It is a Google Drive style SaaS with organization based storage, RBAC, file versioning, AI assisted document editing and cloud storage flows built for real teams.
+CloudDrive is one of the main systems I have worked on. It is a Google Drive style SaaS with organization-based storage, RBAC, file versioning, AI-assisted document editing, and cloud storage flows built for real teams.
 
-I have also worked on a school management SaaS, a PAM security platform and other large production systems where scale, permissions and clean workflows mattered a lot.
+I have also worked on a school management SaaS, a PAM security platform, and other large production systems where scale, permissions, and clean workflows mattered a lot.
+
+## Precision RAG
+
+I also built **Precision RAG**, a production-minded retrieval system for internal company knowledge.
+
+It is designed for real questions, not demo prompts. The system retrieves evidence, ranks it carefully, generates grounded answers, and returns citations so users can verify what the answer is based on.
+
+### What it focuses on
+
+* Intent-aware query routing
+* Query rewrite with safe fallback
+* Hybrid retrieval with weighted RRF
+* Optional reranking with graceful fallback
+* Context packing with token budget control
+* Confidence gating and refusal path
+* Citation verification and sanitization
+* Incremental ingestion with index hygiene
+* End-to-end observability
+
+## Automation & AI Workflow Tools
+
+I like building systems that remove repetitive work and make products smarter without making them fragile.
+
+Some of the tools and areas I work with include:
+
+* n8n for automation workflows
+* LangChain for LLM orchestration
+* LangFlow for visual AI workflow building
+* OpenAI APIs and LLM integration patterns
+* AI middleware and retrieval pipelines
+* Document processing and workflow automation
 
 ## ⚙️ Tech Stack
 
@@ -51,8 +84,8 @@ I have also worked on a school management SaaS, a PAM security platform and othe
 * Node.js, NestJS, Express
 * Microservices architecture
 * REST APIs, GraphQL
-* Event driven systems
-* Multi tenant architectures
+* Event-driven systems
+* Multi-tenant architectures
 
 </td>
 
@@ -92,11 +125,15 @@ I have also worked on a school management SaaS, a PAM security platform and othe
 
 <td valign="top" width="33%">
 
-### AI & LLM
+### AI, RAG & Automation
 * OpenAI APIs
+* LangChain
+* LangFlow
+* n8n
 * AI middleware design
+* Retrieval-Augmented Generation
 * Prompt workflows
-* AI assisted SaaS features
+* AI-assisted SaaS features
 
 </td>
 
@@ -106,7 +143,9 @@ I have also worked on a school management SaaS, a PAM security platform and othe
 * Git, GitHub
 * System design
 * Performance optimization
-* Large scale data migrations
+* Large-scale data migrations
+* Observability and tracing
+* Production debugging
 
 </td>
 </tr>
@@ -116,12 +155,13 @@ I have also worked on a school management SaaS, a PAM security platform and othe
 
 I do not use AI just for the sake of it. Most of my work around AI sits in the middle layer.
 
-* LLM backed workflows inside real features
-* AI assisted document editing and content help
+* LLM-backed workflows inside real features
+* AI-assisted document editing and content help
 * Chat interfaces that actually solve something
-* Automations that remove repetitive work
+* Automation that removes repetitive work
+* Retrieval systems that stay grounded and explainable
 
-The goal is simple. Make things faster, cleaner and less manual without turning the product into a gimmick.
+The goal is simple: make things faster, cleaner, and less manual without turning the product into a gimmick.
 
 ## Portfolio
 
